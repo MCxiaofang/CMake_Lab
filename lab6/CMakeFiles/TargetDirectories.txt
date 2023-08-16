@@ -1,0 +1,3 @@
+/home/zhaoyl/pro/cmake/lab6/CMakeFiles/app.dir
+/home/zhaoyl/pro/cmake/lab6/CMakeFiles/edit_cache.dir
+/home/zhaoyl/pro/cmake/lab6/CMakeFiles/rebuild_cache.dir

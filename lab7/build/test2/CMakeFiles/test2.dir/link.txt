@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test2.dir/sort.cpp.o -o ../../bin/test2  -Wl,-rpath,/home/zhaoyl/pro/cmake/lab7/lib ../../lib/libsort.so 

@@ -1,0 +1,14 @@
+/home/zhaoyl/pro/cmake/lab7/build/CMakeFiles/edit_cache.dir
+/home/zhaoyl/pro/cmake/lab7/build/CMakeFiles/rebuild_cache.dir
+/home/zhaoyl/pro/cmake/lab7/build/calc/CMakeFiles/calc.dir
+/home/zhaoyl/pro/cmake/lab7/build/calc/CMakeFiles/edit_cache.dir
+/home/zhaoyl/pro/cmake/lab7/build/calc/CMakeFiles/rebuild_cache.dir
+/home/zhaoyl/pro/cmake/lab7/build/sort/CMakeFiles/sort.dir
+/home/zhaoyl/pro/cmake/lab7/build/sort/CMakeFiles/edit_cache.dir
+/home/zhaoyl/pro/cmake/lab7/build/sort/CMakeFiles/rebuild_cache.dir
+/home/zhaoyl/pro/cmake/lab7/build/test1/CMakeFiles/test1.dir
+/home/zhaoyl/pro/cmake/lab7/build/test1/CMakeFiles/edit_cache.dir
+/home/zhaoyl/pro/cmake/lab7/build/test1/CMakeFiles/rebuild_cache.dir
+/home/zhaoyl/pro/cmake/lab7/build/test2/CMakeFiles/test2.dir
+/home/zhaoyl/pro/cmake/lab7/build/test2/CMakeFiles/edit_cache.dir
+/home/zhaoyl/pro/cmake/lab7/build/test2/CMakeFiles/rebuild_cache.dir

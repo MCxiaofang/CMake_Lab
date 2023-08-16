@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test.dir/sort.cpp.o -o ../../bin/test   -L/home/zhaoyl/pro/cmake/lab8/lib  -Wl,-rpath,/home/zhaoyl/pro/cmake/lab8/lib ../../lib/libsort.a ../../lib/libcalc.a 

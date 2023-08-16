@@ -1,0 +1,11 @@
+/home/zhaoyl/pro/cmake/lab9/build/CMakeFiles/edit_cache.dir
+/home/zhaoyl/pro/cmake/lab9/build/CMakeFiles/rebuild_cache.dir
+/home/zhaoyl/pro/cmake/lab9/build/calc/CMakeFiles/calc.dir
+/home/zhaoyl/pro/cmake/lab9/build/calc/CMakeFiles/edit_cache.dir
+/home/zhaoyl/pro/cmake/lab9/build/calc/CMakeFiles/rebuild_cache.dir
+/home/zhaoyl/pro/cmake/lab9/build/sort/CMakeFiles/sort.dir
+/home/zhaoyl/pro/cmake/lab9/build/sort/CMakeFiles/edit_cache.dir
+/home/zhaoyl/pro/cmake/lab9/build/sort/CMakeFiles/rebuild_cache.dir
+/home/zhaoyl/pro/cmake/lab9/build/test/CMakeFiles/test.dir
+/home/zhaoyl/pro/cmake/lab9/build/test/CMakeFiles/edit_cache.dir
+/home/zhaoyl/pro/cmake/lab9/build/test/CMakeFiles/rebuild_cache.dir
